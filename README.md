@@ -15,10 +15,13 @@
 
 <div align="center">
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=arin777&custom_title=Aditya's+GitHub+stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=ff7a0d&text_color=F6C819&icon_color=ffb300&cache_seconds=1800" />
-<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=arin777&background=00000000&hide_border=true&stroke=F6C819&ring=ff960d&fire=ffd500&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=arin777&show_icons=true&theme=github_dark"/>
+  
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=arin777&theme=github-dark-blue"/>
   
 </div> 
+
+<img height="330px"  align="center" src="https://activity-graph.herokuapp.com/graph?username=arin777&theme=react-dark&hide_border=true&bg_color=00000000"/>
  
-![Arin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=arin777&theme=react-dark&hide_border=true&area=true)
+
  
