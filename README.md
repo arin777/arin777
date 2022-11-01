@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arin Haritash</h1>
-<h3 align="center">Currently a beginner</h3>
+<h3 align="center">Frontend Developer|Open Source Enthusiast</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌍 I'm based in India
+-🌱 I'm learning **JavaScript** and Front-end Libraries **ReactJS & NextJS**
 
 <h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://twitter.com/ArinHaritash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ArinHaritash" height="30" width="40" /></a>
-<a href="https://instagram.com/vassuuu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vassuuu_" height="30" width="40" /></a>
+<a href="https://instagram.com/ariinnn.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vassuuu_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
