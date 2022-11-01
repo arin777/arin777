@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arin Haritash</h1>
 <h3 align="center">Frontend Developer|Open Source Enthusiast</h3>
 
-- 🌍 I'm based in India
 -🌱 I'm learning **JavaScript** and Front-end Libraries **ReactJS & NextJS**
 
 <h3 align="left">Socials</h3>
