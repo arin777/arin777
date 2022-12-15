@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arin Haritash</h1>
-A developer in progress from India 
+        A developer in progress from India src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"
 <h3 align="center">Frontend Developer| Open Source Enthusiast</h3>
 
 -🌱 I'm learning **JavaScript** and Front-end Libraries **ReactJS & NextJS**
