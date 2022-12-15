@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arin Haritash</h1>
+A developer in progress from India 
 <h3 align="center">Frontend Developer| Open Source Enthusiast</h3>
 
 -🌱 I'm learning **JavaScript** and Front-end Libraries **ReactJS & NextJS**
