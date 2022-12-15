@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arin Haritash</h1>
-       ![image](https://user-images.githubusercontent.com/111766706/207885177-0392e7bc-6efe-4c65-99ab-3ea4d883c278.png)
+       
 
 <h3 align="center">Frontend Developer| Open Source Enthusiast</h3>
 
