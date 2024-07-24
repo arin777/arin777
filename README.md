@@ -3,7 +3,7 @@
 
 <h3 align="center">Frontend Developer| Open Source Enthusiast</h3>
 
--🌱 I'm learning **JavaScript** and Front-end Libraries **ReactJS & NextJS**
+-🌱 I'm learning **Data Structures and Algorithms** using *C++*
 
 <h3 align="left">Socials</h3>
 <p align="left">
