@@ -3,7 +3,7 @@
 
 <h3 align="center">Frontend Developer| Open Source Enthusiast</h3>
 -🌍 I'm based in India
--✉️ You can contact me at <a href = "sharmavasu8765@gmail.com">
+-✉️ You can contact me at <a href = "sharmavasu8765@gmail.com"> </a>
 -🌱 I'm learning **Data Structures and Algorithms** using **C++**
 - I'm open to collaborating on ReactJS and NextJS projects
 
