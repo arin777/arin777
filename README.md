@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Computer Science Undergrad</h3>
 -🌍 I'm based in India <br/>
 -✉️ You can contact me at <a href = "sharmavasu8765@gmail.com"> </a><br/>
--🌱 I'm learning **Data Structures and Algorithms** using **C++**<br/>
+-🌱 I'm learning Data Structures and Algorithms using C++<br/>
 - I'm open to collaborating on ReactJS and NextJS projects <br/>
 
 <h3 align="left">Languages and Tools:</h3>
