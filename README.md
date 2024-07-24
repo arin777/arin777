@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arin Haritash</h1>
        
 
-<h3 align="center">Full Stack Developer| Computer Science Undergrad</h3>
+<h3 align="center">Full Stack Developer | Computer Science Undergrad</h3>
 -🌍 I'm based in India <br/>
 -✉️ You can contact me at <a href = "sharmavasu8765@gmail.com"> </a><br/>
 -🌱 I'm learning **Data Structures and Algorithms** using **C++**<br/>
